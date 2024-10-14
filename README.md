@@ -8,7 +8,7 @@ I am very passionate about computer science and programming, especially on the b
 I am also interested in web development and have worked on full stack projects.  
 ## Experience:  
 **Fall 2024 – Present:** Researching Behavioral Intention Prediction technologies with Carnegie Mellon University  
-**Spring 2024 – Present:** Full-Stack Software Developer and Project Supervisor for the Illinois Association for Gifted Children   
+**Spring 2024 – Present:** Full-Stack Software Developer for the Illinois Association for Gifted Children   
 Learning Enrichment Engine Project Website: (https://iagc.imsa.edu/)  
 **Summer and Fall 2024:** Computer Science Tutor at Infinity Tutoring (https://infinitytutoring4.wixsite.com/mysite)  
 **Spring 2024:** Interned as a React JS Front-End Developer and Market Researcher at Venture Point  
