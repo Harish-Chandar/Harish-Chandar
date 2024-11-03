@@ -9,10 +9,10 @@ I am also interested in web development and have worked on full stack projects.
 ## Experience:  
 **Fall 2024 – Present:** Researching Behavioral Intention Prediction technologies for Autonomous Driving with Carnegie Mellon   
 **Spring 2024 – Present:** Full-Stack Software Developer for the Illinois Association for Gifted Children   
-Learning Enrichment Engine Project Website: (https://iagc.imsa.edu/)  
+  Learning Enrichment Engine Project Website: (https://iagc.imsa.edu/)  
 **Summer and Fall 2024:** Computer Science Tutor at Infinity Tutoring (https://infinitytutoring4.wixsite.com/mysite)  
 **Spring 2024:** Interned as a React JS Front-End Developer and Market Researcher at Venture Point  
-(http://linkedin.com/company/venturepointstudio) with Guido Trevisan  
+  (http://linkedin.com/company/venturepointstudio) with Guido Trevisan  
 ## Technologies:  
 - HTML/CSS
 - JavaScript
