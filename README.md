@@ -22,3 +22,4 @@ I am also interested in web development and have worked on full stack projects.
 - MySQL
 - Java
 - Python
+- C#
