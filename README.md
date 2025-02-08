@@ -6,14 +6,14 @@ You can click the Preview link to take a look at your changes.
 Hello, my name is Harish Chandar! I am a junior at the Illinois Mathematics and Science Academy. 
 I am very passionate about computer science and programming, especially on the bleeding edge of technologies such as autonomous driving, intention prediction, and cybersecurity.
 I am also interested in web development and have worked on full stack projects.  
-## Experience:  
+## 💼 Experience:  
 **Fall 2024 – Present:** Researching Behavioral Intention Prediction technologies for Autonomous Driving with Carnegie Mellon   
 **Spring 2024 – Present:** Full-Stack Software Developer for the Illinois Association for Gifted Children   
   Learning Enrichment Engine Project Website: (https://iagc.imsa.edu/)  
 **Summer and Fall 2024:** Computer Science Tutor at Infinity Tutoring (https://infinitytutoring4.wixsite.com/mysite)  
 **Spring 2024:** Interned as a React JS Front-End Developer and Market Researcher at Venture Point  
   (http://linkedin.com/company/venturepointstudio) with Guido Trevisan  
-## Technologies:  
+## 💻 Technologies:  
 - HTML/CSS
 - JavaScript
 - ReactJS
@@ -23,3 +23,4 @@ I am also interested in web development and have worked on full stack projects.
 - Java
 - Python
 - C#
+### [harishschandar@gmail.com](mailto:harishschandar@gmail.com)
