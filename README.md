@@ -7,6 +7,7 @@ Hello, my name is Harish Chandar! I am a junior at the Illinois Mathematics and 
 I am very passionate about computer science and programming, especially on the bleeding edge of technologies such as autonomous driving, intention prediction, and cybersecurity.
 I am also interested in web development and have worked on full stack projects.  
 ## 💼 Experience:  
+**Spring 2025 – Present:** Redeveloping the Peer Tutoring website for the Illinois Math and Science Academy
 **Fall 2024 – Present:** Researching Behavioral Intention Prediction technologies for Autonomous Driving with Carnegie Mellon   
 **Spring 2024 – Present:** Full-Stack Software Developer for the Illinois Association for Gifted Children   
   Learning Enrichment Engine Project Website: (https://iagc.imsa.edu/)  
