@@ -35,12 +35,12 @@ Hello, my name is Harish Chandar! I am a junior at the Illinois Mathematics and 
 I am very passionate about computer science and programming, especially on the cutting edge of technologies such as autonomous driving, trajectory prediction, and cybersecurity.
 I am also interested in web development and have worked on full stack projects for the IAGC and IMSA.  
 ## 💼 Experience:  
-**Spring 2025 – Present:** Lead Back-End Developer of the new Peer Tutoring website for the Illinois Math and Science Academy   
+**Spring 2025 – Present:** Chief Back-End Developer of the new Peer Tutoring website for the Illinois Math and Science Academy   
 **Fall 2024 – Present:** Researching Trajectory Prediction Technologies in Construction Zones for Autonomous Driving with Carnegie Mellon University   
 **Spring 2024 – Present:** Full-Stack Software Developer for the Illinois Association for Gifted Children   
   Learning Enrichment Engine Project Website: (https://iagc.imsa.edu/)  
 **Summer 2025:** React Native and ElectronJS Developer at Alchemy Software LLC   
-  (https://halffull.pro)   
+  Developing Half Full for Mobile and Desktop: (https://halffull.pro)   
 **Summer and Fall 2024:** Computer Science Tutor at Infinity Tutoring (https://infinitytutoring4.wixsite.com/mysite)  
 **Spring 2024:** Interned as a React JS Front-End Developer and Market Researcher at Venture Point  
   (http://linkedin.com/company/venturepointstudio) with Guido Trevisan  
