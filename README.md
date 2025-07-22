@@ -25,13 +25,13 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />   
+  <br>
+    <br />
+  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish-chandar&layout=compact&theme=tokyonight"/>
+<h3 style="font-family: monospace;"> Computer Science | Software Development | Artificial Intelligence | Autonomous Driving </h3>
 </div> 
-<br/>
 
-Hello, my name is Harish Chandar! I am a junior at the Illinois Mathematics and Science Academy. 
-I am very passionate about computer science and programming, especially on the cutting edge of technologies such as autonomous driving, trajectory prediction, and cybersecurity.
-I am also interested in web development and have worked on full stack projects for the IAGC and IMSA.  
 ## 💼 Experience:  
 **Spring 2025 – Present:** Chief Back-End Developer of the new Peer Tutoring website for the Illinois Math and Science Academy   
 **Fall 2024 – Present:** Researching Trajectory Prediction Technologies in Construction Zones for Autonomous Driving with Carnegie Mellon University   
